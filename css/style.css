@@ -767,7 +767,7 @@ body{
 
 /* handle first slider */
 .introSlider__item--first {
-    background: url("/resource/img/index-slider/index-pz-1.jpg");
+    background: url("../resource/img/index-slider/index-pz-1.jpg");
 }
 
 .introSlider__item--first 
@@ -797,7 +797,7 @@ body{
 
 /* handle second slider */
 .introSlider__item--second {
-    background: url("/resource/img/index-slider/index-pz-2.jpg");
+    background: url("../resource/img/index-slider/index-pz-2.jpg");
 }
 
 .introSlider__item--second 
