@@ -53,7 +53,7 @@ body{
     top: 0;
     bottom: 0;
     width: 198px;
-    background: url('/resource/img/index-header/logo-header.png') center/contain no-repeat;
+    background: url('../resource/img/index-header/logo-header.png') center/contain no-repeat;
 }
 
 .app__header-logo-container::before{
